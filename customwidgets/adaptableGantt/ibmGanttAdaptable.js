@@ -77,8 +77,8 @@ var getScriptPromisify = (src) => {
       async render () {
 
         
-        await getScriptPromisify('https://napoleonsecond.github.io/customwidgets/adaptableGantt/dist/ibm-gantt-chart.js');
-        await getScriptPromisify('https://napoleonsecond.github.io/customwidgets/adaptableGantt/dist/vis.js');        
+        await getScriptPromisify('https://Testing_Analytical.github.io/customwidgets/adaptableGantt/dist/ibm-gantt-chart.js');
+        await getScriptPromisify('https://Testing_Analytical.github.io/customwidgets/adaptableGantt/dist/vis.js');        
         var dataVals = [];
         var catToDate = new Map();
         var listOfCat = [];
