@@ -12,7 +12,7 @@ var getScriptPromisify = (src) => {
     
     <head>
     <title>Simple Gantt</title>
-    <link href="https://Testing_Analytical.github.io/customwidgets/adaptableGantt/ibm-gantt-chart.css" rel="stylesheet" />
+    <link href="https://architbansal35.github.io/Testing_Analytical.github.io/customwidgets/adaptableGantt/ibm-gantt-chart.css" rel="stylesheet" />
     <!--  Page styles  -->
     <style>
       html {
@@ -77,8 +77,8 @@ var getScriptPromisify = (src) => {
       async render () {
 
         
-        await getScriptPromisify('https://Testing_Analytical.github.io/customwidgets/adaptableGantt/dist/ibm-gantt-chart.js');
-        await getScriptPromisify('https://Testing_Analytical.github.io/customwidgets/adaptableGantt/dist/vis.js');        
+        await getScriptPromisify('https://architbansal35.github.io/Testing_Analytical.github.io/customwidgets/adaptableGantt/dist/ibm-gantt-chart.js');
+        await getScriptPromisify('https://architbansal35.github.io/Testing_Analytical.github.io/customwidgets/adaptableGantt/dist/vis.js');        
         var dataVals = [];
         var catToDate = new Map();
         var listOfCat = [];
